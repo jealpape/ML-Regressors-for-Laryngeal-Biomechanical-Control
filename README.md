@@ -10,8 +10,8 @@ The project implements feature-based regressors (Random Forest, Neural Networks,
 The repository is organized as follows:
 
 - **`data/`**: Contains the datasets generated from the numerical simulations.
-  - `BCM_dataset.csv`: Data generated using the Extended Body-Cover Model (ext-BCM).
-  - `TBCM_dataset.csv`: Data generated using the Triangular Body-Cover Model (TBCM).
+  - `dataset_BCM.csv`: Data generated using the Extended Body-Cover Model (ext-BCM).
+  - `dataset_TBCM.csv`: Data generated using the Triangular Body-Cover Model (TBCM).
   
 - **Notebooks**:
   - `Regressors_BCM.ipynb`: Jupyter notebook containing the training, validation, and evaluation pipeline for the ext-BCM dataset.
