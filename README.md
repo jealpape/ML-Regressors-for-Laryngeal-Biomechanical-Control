@@ -44,7 +44,7 @@ To run the notebooks, you will need a Python environment with the following libr
 ### Usage
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)](https://github.com/jealpape/ML-Regressors-for-Laryngeal-Biomechanical-Control)
+   git clone [https://github.com/your-username/repo-name.git](https://github.com/jealpape/ML-Regressors-for-Laryngeal-Biomechanical-Control.git)
 
 2. Open:  `Regressors_BCM.ipynb` or `Regressors_TBCM.ipynb` to explore the training process and visualize the results.
 
