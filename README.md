@@ -68,7 +68,7 @@ Triangular body-cover model of the vocal folds with coordinated activation of th
 
 If you use this code or data in your research, please cite the associated paper:
 
-[Placeholder for your Paper Citation: Authors, Title, Journal, Year, DOI]
+Parra, J.A., Sorolla, C., Quinteros, N.F., Ibarra, E.J., Alzamendi, G.A., Peterson, S.D., Weerathunge, H.R., Guenther, F.H. and Zañartu, M., 2026. Machine learning surrogate forward models for biomechanical laryngeal control. *The Journal of the Acoustical Society of America*, 160(2), pp.1111-1124. [https://doi.org/10.1121/10.0044564](https://doi.org/10.1121/10.0044564)
 
 ## Acknowledgment
 
